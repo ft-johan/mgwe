@@ -1,5 +1,5 @@
 .team_card_container {
-  max-width: 12rem;
+  max-width: 13rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -19,17 +19,18 @@
   font-family: "Libre Franklin";
   font-style: normal;
   font-weight: 600;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   line-height: 27px;
   margin-left: 1rem;
   margin-top: 0.5rem;
   /* identical to box height */
+  text-align: center;
 
   color: #ffffff;
 }
 
 .name_label img {
-  width: 0.75rem;
+  width: 0.65rem;
   margin-left: 0.5rem;
 }
 
@@ -44,7 +45,7 @@
 
 @media only screen and (min-width: 1000px) {
   .team_card_container {
-    max-width: 12rem;
+    max-width: 13rem;
   }
   .card_image {
     width: 12rem;

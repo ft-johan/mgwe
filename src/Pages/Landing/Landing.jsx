@@ -14,7 +14,7 @@ const Landing = () => {
           <Navbar />
           <div className={styles.first_view_texts}>
             {/* Change this to your college name */}
-            <div className={styles.first_view_heading}>GTech µLearn CUCEK</div>
+            <div className={styles.first_view_heading}>GTech µLearn KNP</div>
             <p className={styles.first_view_description}>
               A nonprofit network of high school coding clubs and makers around
               the world, for the students, by the students.
@@ -69,9 +69,58 @@ const Landing = () => {
             <div className={styles.team_cards_container}>
               <TeamCard
                 image="/assets/team/image1.png" //Add the image link here.
-                name="Andrea Janet" //Add the name of the Team Member.
+                name="Akash R S" //Add the name of the Team Member.
                 linkedin="#" //LinkedIn Profile of Team Member.
-                position="Web Lead" //Add the Position of the Team Member.
+                position="Faculty In-Charge" //Add the Position of the Team Member.
+              />
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="NIJIN K VARGHESE"
+                linkedin="#"
+                position="CAMPUS LEAD"
+              />
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="SREELEKSHMI A"
+                linkedin="#"
+                position="CAMPUS CO-LEAD"
+              />
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="Andrea Janet"
+                linkedin="#"
+                position="TECH Lead"
+              />
+              
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="Andrea Janet"
+                linkedin="#"
+                position="Web Lead"
+              />
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="Andrea Janet"
+                linkedin="#"
+                position="Web Lead"
+              />
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="Andrea Janet"
+                linkedin="#"
+                position="Web Lead"
+              />
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="Andrea Janet"
+                linkedin="#"
+                position="Web Lead"
+              />
+              <TeamCard
+                image="/assets/team/image1.png"
+                name="Andrea Janet"
+                linkedin="#"
+                position="Web Lead"
               />
               <TeamCard
                 image="/assets/team/image1.png"

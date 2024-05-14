@@ -6,6 +6,7 @@
 
 .first_view_container {
   color: white;
+  height: 100dvh;
   padding: 2rem;
   background: url("homebg.png") no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -17,7 +18,7 @@
 .first_view_texts {
   display: flex;
   padding-top: 3rem;
-  min-height: 60vh;
+  min-height: 80vh;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -129,7 +130,7 @@
 }
 
 .third_view {
-  max-width: 1000px;
+  max-width: 1500px;
   display: block;
   margin: auto;
 }
