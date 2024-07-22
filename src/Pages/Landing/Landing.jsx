@@ -68,26 +68,26 @@ const Landing = () => {
             </p>
             <div className={styles.team_cards_container}>
               <TeamCard
-                image="/assets/team/image1.png" //Add the image link here.
+                image="/assets/team/akash.jpeg" //Add the image link here.
                 name="Akash R S" //Add the name of the Team Member.
                 linkedin="#" //LinkedIn Profile of Team Member.
                 position="Faculty In-Charge" //Add the Position of the Team Member.
               />
               <TeamCard
-                image="/assets/team/image1.png"
+                image="/assets/team/nijin.jpeg"
                 name="NIJIN K VARGHESE"
                 linkedin="#"
                 position="CAMPUS LEAD"
               />
               <TeamCard
-                image="/assets/team/image1.png"
+                image="/assets/team/chechi.jpeg"
                 name="SREELEKSHMI A"
                 linkedin="#"
                 position="CAMPUS CO-LEAD"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/abhi.jpeg"
+                name="Abhimanyu RB"
                 linkedin="#"
                 position="TECH Lead"
               />
@@ -99,52 +99,52 @@ const Landing = () => {
                 position="Web Lead"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/nobi.jpeg"
+                name="Nobin Sijo"
                 linkedin="#"
-                position="Web Lead"
+                position="Design Lead"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/adil.jpeg"
+                name="Adhil N"
                 linkedin="#"
-                position="Web Lead"
+                position="Student Activities Coordinator"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/jith.jpeg"
+                name="Abhijith B"
                 linkedin="#"
-                position="Web Lead"
+                position="Student Activities Coordinator"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/so.jpeg"
+                name="Soja Grace"
                 linkedin="#"
-                position="Web Lead"
+                position="Student Activities Coordinator"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/aaro.jpeg"
+                name="Prasanth P"
                 linkedin="#"
-                position="Web Lead"
+                position="Discord Coordinator"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/shanks.jpeg"
+                name="Sanker S "
                 linkedin="#"
-                position="Web Lead"
+                position="Outreach Coordinator"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/atul.jpeg"
+                name="Atul Alexander "
                 linkedin="#"
-                position="Web Lead"
+                position="Outreach Coordinator"
               />
               <TeamCard
-                image="/assets/team/image1.png"
-                name="Andrea Janet"
+                image="/assets/team/devan.jpeg"
+                name="Devanath DR"
                 linkedin="#"
-                position="Web Lead"
+                position="Outreach Coordinator"
               />
             </div>
           </div>
